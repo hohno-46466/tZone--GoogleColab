@@ -1,1 +1,3 @@
-# tZone--GoogleColab--Test00 (tZone--GoogleColaboratoryTest)
+# GitHub/tZone--GoogleColab--Test00 (tZone--GoogleColaboratoryTest)
+
+-EOF-
