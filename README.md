@@ -2,4 +2,6 @@
 
 Note: 	url = https://github.com/hohno-46466/tZone--GoogleColab--Test00
 
+Note:   url = git@github.com:hohno-46466/tZone--GoogleColab--Test00.git
+
 -EOF-
