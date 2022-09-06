@@ -7,7 +7,7 @@
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Mon Sep  5 19:33:10 JST 2022)
+     0 directories, 5 files (Tue Sep  6 19:35:16 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone--GoogleColab
