@@ -1,13 +1,13 @@
 # GitHub/tZone--GoogleColab (tZone--GoogleColaboratory)
 
-    ./tZone--GoogleColab
+     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
      ├──  README.md
      ├──  README.md.old
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Tue Sep  6 19:35:16 JST 2022)
+     0 directories, 5 files (Fri Sep  9 06:46:38 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone--GoogleColab
